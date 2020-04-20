@@ -39,7 +39,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="lib.cs" />
+    <Compile Include="class\lib.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".vs\cs\config\applicationhost.config" />
